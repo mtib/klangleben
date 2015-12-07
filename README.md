@@ -30,24 +30,31 @@ Klang des Lebens / Sound of life
   - Stille
 
 ## Aufnahmen
-- [ ] Baby Schrei
-- [ ] Frau Schrei
-- [ ] Stapfen
 - [ ] Fahrrad
-- [ ] Fahrradklingel
-- [ ] Fahrradschloss
+  - [ ] Fahrrad
+  - [ ] Fahrradklingel
+  - [ ] Fahrradschloss
+- [ ] Swenja
+  - [ ] Baby Schrei
+  - [ ] Frau Schrei
+- [ ] Menschen
+  - [ ] Stapfen
+  - [ ] Räuspern
+  - [ ] Wimmern
 - [ ] Mad world
   - [ ] Geige
   - [ ] Gitarre
   - [ ] Piano
-- [ ] Autostart
-- [ ] "Crash": Tablett
-- [ ] Herzschlag
-- [ ] Piepton
-- [ ] Regen
-- [ ] Wind
-- [ ] Donner: Blech
-- [ ] Glocken
-- [ ] Beerdigung
-- [ ] Räuspern
-- [ ] Wimmern
+- [ ] Auto 
+  - [ ] Autostart
+- [ ] Technisch
+  - [ ] Herzschlag
+  - [ ] Piepton
+- [ ] Natur
+  - [ ] Regen
+  - [ ] Wind
+  - [ ] Beerdigung "Erde"
+- [ ] Blech, sonstiges
+  - [ ] "Crash": Tablett
+  - [ ] Donner: Blech
+  - [ ] Glocken
