@@ -47,14 +47,14 @@ Klang des Lebens / Sound of life
   - [ ] Piano
 - [ ] Auto
   - [ ] Autostart
-- [ ] Technisch
-  - [ ] Herzschlag
-  - [ ] Piepton
+- [x] Technisch
+  - [x] Herzschlag
+  - [x] Piepton
 - [ ] Natur
-  - [ ] Regen
-  - [ ] Wind
+  - [x] Regen
+  - [x] Wind
   - [ ] Beerdigung "Erde"
 - [ ] Blech, sonstiges
   - [ ] "Crash": Tablett
-  - [ ] Donner: Blech
+  - [x] Donner: Blech
   - [ ] Glocken
