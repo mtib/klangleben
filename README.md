@@ -11,7 +11,7 @@ Klang des Lebens / Sound of life
   - Schloss (Abschließen)
 3. Arbeit (Musiker)
   - Mad World
-4. Unfall 
+4. Unfall
   - Autostart
   - Autocrash
   - Schrei
@@ -41,11 +41,11 @@ Klang des Lebens / Sound of life
   - [ ] Stapfen
   - [ ] Räuspern
   - [ ] Wimmern
-- [ ] Mad world
-  - [ ] Geige
-  - [ ] Gitarre
+- [x] Mad world
+  - [x] Geige
+  - [x] Gitarre
   - [ ] Piano
-- [ ] Auto 
+- [ ] Auto
   - [ ] Autostart
 - [ ] Technisch
   - [ ] Herzschlag
