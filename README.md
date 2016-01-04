@@ -32,29 +32,28 @@ Klang des Lebens / Sound of life
 ## Aufnahmen
 - [ ] Fahrrad
   - [ ] Fahrrad
-  - [ ] Fahrradklingel
-  - [ ] Fahrradschloss
-- [ ] Swenja
-  - [ ] Baby Schrei
-  - [ ] Frau Schrei
-- [ ] Menschen
-  - [ ] Stapfen
-  - [ ] Räuspern
-  - [ ] Wimmern
+  - [x] Fahrradklingel
+  - [x] Fahrradschloss
+- [x] Swenja
+  - [x] Baby Schrei
+  - [x] Frau Schrei
+- [x] Menschen
+  - [x] Stapfen
+  - [x] Räuspern
+  - [x] Wimmern
 - [x] Mad world
   - [x] Geige
   - [x] Gitarre
-  - [ ] Piano
 - [ ] Auto
   - [ ] Autostart
 - [x] Technisch
   - [x] Herzschlag
   - [x] Piepton
-- [ ] Natur
+- [x] Natur
   - [x] Regen
   - [x] Wind
-  - [ ] Beerdigung "Erde"
-- [ ] Blech, sonstiges
-  - [ ] "Crash": Tablett
+  - [x] Beerdigung "Erde"
+- [x] Blech, sonstiges
+  - [x] "Crash": Tablett
   - [x] Donner: Blech
-  - [ ] Glocken
+  - [x] Glocken
